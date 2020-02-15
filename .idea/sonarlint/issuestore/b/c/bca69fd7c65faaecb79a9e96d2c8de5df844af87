@@ -1,0 +1,8 @@
+
+Psquid:S1611"2Remove the parentheses around the "data" parameter(­½œê8µôöè-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©øÄé
+Wsquid:S1854"9Remove this useless assignment to local variable "list1".(ƒ›íì8ìÖÙè-
+Psquid:S1611"2Remove the parentheses around the "data" parameter(á‰¦–8ĞÚçè-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8‚Øôè-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªëšùÿÿÿÿ

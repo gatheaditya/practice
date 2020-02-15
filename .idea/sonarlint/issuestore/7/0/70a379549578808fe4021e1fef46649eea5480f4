@@ -1,0 +1,6 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¿¼ùùÿÿÿÿ8Á¤Ñç-
+Ysquid:S1197"8Move the array designator from the variable to the type.(˜¬®èıÿÿÿÿ8‘íñ­å-
+Fsquid:S2116"%Use "Arrays.toString(array)" instead.(Ä¿¼ùùÿÿÿÿ8ØÁÑç-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è³‚İøÿÿÿÿ8ÚÑ£Ñç-

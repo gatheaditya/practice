@@ -1,0 +1,21 @@
+
+Vsquid:S1854"5Remove this useless assignment to local variable "e".(ÏÄù²ıÿÿÿÿ8ı¨ÀïÎ-
+Qsquid:S1854"5Remove this useless assignment to local variable "c".(³¢ï8ÕÄ¾ïÎ-
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò¬™Ò
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÃ•Y8µÀ„ïÎ-
+Bsquid:S1481"&Remove this unused "a" local variable.(«×òÛ8Æ“»ïÎ-
+Gsquid:S1481"&Remove this unused "e" local variable.(ÏÄù²ıÿÿÿÿ8ı¨ÀïÎ-
+Asquid:S2129" Remove this "String" constructor(°¹šüùÿÿÿÿ8Æ“»ïÎ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8ÂÈ‹ïÎ-
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(«×òÛ8Æ“»ïÎ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ãòë8öïÎ-
+Bsquid:S1481"&Remove this unused "c" local variable.(³¢ï8ÕÄ¾ïÎ-
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªëšùÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚÒ©ïÎ-
+Vsquid:S1854"5Remove this useless assignment to local variable "x".(ï‰Àùÿÿÿÿ8Õ®ÆïÎ-
+Gsquid:S1481"&Remove this unused "x" local variable.(ï‰Àùÿÿÿÿ8Õ®ÆïÎ-
+Ksquid:S2201"*The return value of "charAt" must be used.(ì½ìñşÿÿÿÿ8ÈÖÈïÎ-
+csquid:S1192"GDefine a constant instead of duplicating this literal "aditya" 3 times.(«×òÛ8ı¨ÀïÎ-

@@ -1,0 +1,18 @@
+
+_squid:S1192§"GDefine a constant instead of duplicating this literal "second" 5 times.(êîÿ¤
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªîèØ
+Osquid:S1197"8Move the array designator from the variable to the type.(Ã¿ï¬
+Osquid:S1197"8Move the array designator from the variable to the type.(ÓÀ³·
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–µé›ıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰Î¹—
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÒìì
+P"squid:SwitchLastCaseIsDefaultChecks""Add a default case to this switch.(¯ğ»‰
+Usquid:S1197…"8Move the array designator from the variable to the type.(±æëÖÿÿÿÿÿ
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(•Âù
+Tsquid:UnusedPrivateMethod"/Remove this unused private "printArray" method.(ÓÀ³·
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(·†ãùÿÿÿÿ
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(„Â¢ûüÿÿÿÿ
